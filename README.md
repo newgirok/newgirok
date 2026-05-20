@@ -38,12 +38,5 @@ Full-stack developer based in Seoul, KR.
 
 ---
 
-### Recent Projects
-
-- **project-name** — short description of what it does
-- **project-name** — short description of what it does
-- **project-name** — short description of what it does
-
----
 
 📫 [newgirok@gmail.com](mailto:newgirok@gmail.com)
