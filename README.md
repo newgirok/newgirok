@@ -1,6 +1,6 @@
-### Hi, I'm Jinwoo Shin (신진우) 👋
+### Hi, I'm Jinwoo Shin 👋
 
-Backend developer based in Seoul, KR — building reliable systems across web, real-time, and blockchain.
+Full-stack developer based in Seoul, KR.
 
 ---
 
