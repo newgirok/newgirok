@@ -7,7 +7,7 @@ GitHub는 이력서보다 솔직한 포트폴리오입니다.<br>
 <tr>
 <td valign="top">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=newgirok&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=newgirok&show_icons=true&theme=dark&count_private=true)
 
 </td>
 <td valign="top">
