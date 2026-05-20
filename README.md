@@ -40,11 +40,9 @@ Backend developer based in Seoul, KR — building reliable systems across web, r
 
 ### Recent Projects
 
-- **[LoL 전적 검색](https://github.com/tlswlsdntks/opgg)** — Riot API 연동 전적 조회 서비스 (Node.js + React)
-- **[이더리움 하드포크](https://github.com/tlswlsdntks/my-blockchain)** — Go Ethereum 기반 커스텀 블록체인 네트워크 (Go + GCP)
-- **[NestJS SNS API](https://github.com/tlswlsdntks/nest-sns-api)** — TypeORM + Docker 기반 SNS REST API (NestJS + PostgreSQL)
-- **[실시간 경매 서비스](https://github.com/tlswlsdntks/node-auction)** — Socket.IO + SSE 기반 실시간 경매 (Node.js + MySQL)
-- **[Phaser3 게임](https://github.com/tlswlsdntks/phaser3-game)** — 로그라이크 캐주얼 게임 (JavaScript + Phaser3)
+- **project-name** — short description of what it does
+- **project-name** — short description of what it does
+- **project-name** — short description of what it does
 
 ---
 
