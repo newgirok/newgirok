@@ -1,4 +1,4 @@
-Hi, I'm Jinwoo. I'm a full-stack engineer, I build reliable systems from backend infrastructure to polished interfaces. Former structural engineer at a civil engineering firm.
+안녕하세요, 신진우입니다. 백엔드 인프라부터 완성도 높은 인터페이스까지 신뢰할 수 있는 시스템을 만드는 풀스택 엔지니어입니다. 전 토목회사 구조부 출신입니다.
 
 ---
 
@@ -24,7 +24,7 @@ Hi, I'm Jinwoo. I'm a full-stack engineer, I build reliable systems from backend
 
 ### Recent Projects
 
-- **[pixel-survivors](https://github.com/newgirok/pixel-survivors)** — A browser-based roguelike survival game (Phaser3)
+- **[pixel-survivors](https://github.com/newgirok/pixel-survivors)** — 브라우저 기반 로그라이크 서바이벌 게임 (Phaser3)
 
 ---
 
