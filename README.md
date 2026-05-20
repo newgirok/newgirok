@@ -3,6 +3,15 @@ GitHub는 이력서보다 솔직한 포트폴리오입니다.<br>
 
 ---
 
+<table>
+<tr>
+<td valign="top">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=newgirok&show_icons=true&theme=dark)
+
+</td>
+<td valign="top">
+
 **Frontend**<br>
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
@@ -20,6 +29,10 @@ GitHub는 이력서보다 솔직한 포트폴리오입니다.<br>
 
 **AI**<br>
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
