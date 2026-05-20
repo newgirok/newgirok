@@ -40,6 +40,8 @@ Full-stack developer based in Seoul, KR.
 
 ### Recent Projects
 
+- **[pixel-survivors](https://github.com/newgirok/pixel-survivors)** — Phaser3 기반 로그라이크 캐주얼 게임 (JavaScript + React + Webpack)
+
 ---
 
 📫 [newgirok@gmail.com](mailto:newgirok@gmail.com)
