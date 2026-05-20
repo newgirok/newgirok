@@ -30,4 +30,4 @@ I build things across backend systems, web, and mobile.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
-📫 [tlswlsdnehd@gmail.com](mailto:tlswlsdnehd@gmail.com)
+📫 [newgirok@gmail.com](mailto:newgirok@gmail.com)
