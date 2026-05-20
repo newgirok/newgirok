@@ -1,7 +1,6 @@
 ### Hi, I'm Jinwoo Shin 👋
 
-Full-stack developer with 3+ years of experience based in Seoul, KR.
-Specialized in backend systems with Java and Node.js, and experienced in real-time communication, blockchain, and enterprise web applications.
+From backend logic to polished UI.
 
 ---
 
