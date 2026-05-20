@@ -7,12 +7,9 @@ GitHub는 이력서보다 솔직한 포트폴리오입니다.<br>
 <tr>
 <td width="50%" valign="top">
 <img src="https://github-readme-stats-salesp07.vercel.app/api?username=newgirok&show_icons=true&theme=dark&count_private=true&card_width=495" width="100%" />
-</td>
-<td width="50%" valign="top">
 <img src="https://streak-stats.demolab.com?user=newgirok&theme=dark" width="100%" />
 </td>
-</tr>
-</table>
+<td width="50%" valign="top">
 
 **Frontend**<br>
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -31,6 +28,10 @@ GitHub는 이력서보다 솔직한 포트폴리오입니다.<br>
 
 **AI**<br>
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
