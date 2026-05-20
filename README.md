@@ -5,14 +5,14 @@ GitHub는 이력서보다 솔직한 포트폴리오입니다.<br>
 
 <table>
 <tr>
-<td valign="top">
+<td width="45%" valign="top">
 
-<img src="https://github-readme-stats-salesp07.vercel.app/api?username=newgirok&show_icons=true&theme=dark&count_private=true" width="380" />
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=newgirok&show_icons=true&theme=dark&count_private=true&show=reviews,prs_merged,discussions_started" width="310" />
 
-<img src="https://streak-stats.demolab.com?user=newgirok&theme=dark" width="380" />
+<img src="https://streak-stats.demolab.com?user=newgirok&theme=dark" width="310" />
 
 </td>
-<td valign="top">
+<td width="55%" valign="top">
 
 **Frontend**<br>
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
