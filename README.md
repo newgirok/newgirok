@@ -24,7 +24,7 @@ Hi, I'm Jinwoo. I'm a full-stack engineer, I build reliable systems from backend
 
 ### Recent Projects
 
-- **[pixel-survivors](https://github.com/newgirok/pixel-survivors)** — Phaser3 기반 로그라이크 캐주얼 게임 (JavaScript + React + Webpack)
+- **[pixel-survivors](https://github.com/newgirok/pixel-survivors)** — A browser-based roguelike survival game (Phaser3)
 
 ---
 
