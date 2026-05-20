@@ -9,6 +9,8 @@ GitHub는 이력서보다 솔직한 포트폴리오입니다.<br>
 
 ![GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=newgirok&show_icons=true&theme=dark&count_private=true)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=newgirok&theme=dark)
+
 </td>
 <td valign="top">
 
