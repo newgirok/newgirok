@@ -10,6 +10,7 @@ GitHub는 이력서보다 솔직한 포트폴리오입니다.<br>
 <img src="https://streak-stats.demolab.com?user=newgirok&theme=dark" width="100%" height="200" />
 </td>
 <td width="50%" valign="top">
+
 **Frontend**<br>
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
