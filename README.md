@@ -11,6 +11,8 @@ GitHub는 이력서보다 솔직한 포트폴리오입니다.<br>
 
 <img src="https://streak-stats.demolab.com?user=newgirok&theme=dark" width="100%" height="200" />
 
+<img src="https://github-profile-trophy.vercel.app/?username=newgirok&theme=darkhub&column=2&margin-w=4&margin-h=4" width="100%" />
+
 </td>
 <td width="50%" valign="top">
 
