@@ -13,7 +13,7 @@ GitHub는 이력서보다 솔직한 포트폴리오입니다.<br>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /></p>
 
 <p style="margin-bottom:21px"><b>Infrastructure</b><br>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/NCP-03C75A?style=flat-square&logo=naver&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" /></p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/NCP-03C75A?style=flat-square" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" /></p>
 
 <p><b>AI</b><br>
 <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" /> <img src="https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white" /></p>
