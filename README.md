@@ -22,7 +22,7 @@ GitHub는 이력서보다 솔직한 포트폴리오입니다.<br>
 
 ### Recent Projects
 
-- **[pixel-survivors](https://github.com/newgirok/pixel-survivors)** — 브라우저 기반 로그라이크 서바이벌 게임 (Phaser3)
+- **[lion-survival](https://github.com/newgirok/lion-survival)** — 브라우저 기반 로그라이크 서바이벌 게임 (Phaser3)
 
 ---
 
