@@ -23,9 +23,11 @@ GitHub는 이력서보다 솔직한 포트폴리오입니다.<br>
 ### Recent Projects
 
 1. [youtube-shorts-automation](https://github.com/newgirok/youtube-shorts-automation) (NestJS · Next.js)
-   - 토픽 한 줄로 YouTube Shorts 전 과정 자동화 파이프라인
+   - 주제 입력 한 줄로 끝내는 YouTube Shorts 생성 및 업로드 자동화 시스템
+   - Gemini 2.5 Flash 스크립트 생성 · SQS 5단계 비동기 파이프라인
 2. [lion-survival](https://github.com/newgirok/lion-survival) (Phaser3)
-   - 브라우저 기반 로그라이크 서바이벌 게임
+   - 웹 브라우저에서 즐기는 실시간 2D 로그라이크 서바이벌 게임
+   - Physics Group 충돌 판정 · Scene FSM · TileSprite 무한 배경
 
 ---
 
