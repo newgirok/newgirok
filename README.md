@@ -27,7 +27,7 @@ GitHub는 이력서보다 솔직한 포트폴리오입니다.<br>
    - Gemini 2.5 Flash 스크립트 생성 · SQS 5단계 비동기 파이프라인
 2. [lion-survival](https://github.com/newgirok/lion-survival) (Phaser3)
    - 웹 브라우저에서 즐기는 실시간 2D 로그라이크 서바이벌 게임
-   - Physics Group 충돌 판정 · Scene FSM · TileSprite 무한 배경
+   - Physics Group 충돌 최적화 · Scene FSM 상태 관리 · TileSprite 무한 배경 구현
 
 ---
 
