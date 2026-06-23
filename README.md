@@ -29,8 +29,8 @@ GitHub는 이력서보다 솔직한 포트폴리오입니다.<br>
    - 웹 브라우저에서 즐기는 2D 로그라이크 서바이벌 게임
    - Physics Group 충돌 최적화 · Scene FSM 상태 관리 · TileSprite 무한 배경 구현
 3. [opgg](https://github.com/newgirok/opgg) (React · Express)
-   - 소환사 이름과 태그로 랭크 조회, 최근 20게임 전적, 아군/적군 팀 상세를 확인하는 전적 검색 서비스
-   - Riot Games API 연동 (Account v1 · Summoner v4 · Match v5) · OP.GG 다크 테마 UI 직접 구현
+   - 소환사 랭크와 최근 전적을 조회하는 전적 검색 서비스
+   - Riot Games API 연동 · OP.GG 다크 테마 UI 직접 구현
 
 ---
 
