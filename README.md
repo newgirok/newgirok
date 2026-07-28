@@ -3,43 +3,20 @@ GitHub는 이력서보다 솔직한 포트폴리오입니다.<br>
 
 ---
 
-<p><b>Frontend</b></p>
-<table cellpadding="0" cellspacing="4" border="0"><tr>
-<td><img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white" /></td>
-<td><img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" /></td>
-<td><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /></td>
-<td><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /></td>
-</tr></table>
+<p><b>Frontend</b><br>
+<img src="https://skillicons.dev/icons?i=java,react,nextjs" /></p>
 
-<p><b>Backend</b></p>
-<table cellpadding="0" cellspacing="4" border="0"><tr>
-<td><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /></td>
-<td><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /></td>
-<td><img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" /></td>
-<td><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /></td>
-</tr></table>
+<p><b>Backend</b><br>
+<img src="https://skillicons.dev/icons?i=spring,express,nestjs,supabase" /></p>
 
-<p><b>Database</b></p>
-<table cellpadding="0" cellspacing="4" border="0"><tr>
-<td><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></td>
-<td><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /></td>
-<td><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /></td>
-<td><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /></td>
-</tr></table>
+<p><b>Database</b><br>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" /></p>
 
-<p><b>Infrastructure</b></p>
-<table cellpadding="0" cellspacing="4" border="0"><tr>
-<td><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white" /></td>
-<td><img src="https://img.shields.io/badge/NCP-03C75A?style=flat-square" /></td>
-<td><img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" /></td>
-<td><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /></td>
-</tr></table>
+<p><b>Infrastructure</b><br>
+<img src="https://skillicons.dev/icons?i=aws,nginx,docker" /></p>
 
-<p><b>AI</b></p>
-<table cellpadding="0" cellspacing="4" border="0"><tr>
-<td><img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" /></td>
-<td><img src="https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white" /></td>
-</tr></table>
+<p><b>AI</b><br>
+Claude · Codex</p>
 
 ---
 
