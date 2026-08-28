@@ -33,10 +33,10 @@ GitHub는 이력서보다 솔직한 포트폴리오입니다.<br>
 2. [node-sns](https://github.com/newgirok/node-sns) (Express)
    - 카카오 로그인, 팔로우, 해시태그를 지원하는 트위터 스타일 SNS
    - Passport 로컬·카카오 로그인 · S3 이미지 업로드 · helmet·hpp·Redis 세션으로 보안 강화
-3. [node-chat](https://github.com/newgirok/node-chat) (Express · Socket.IO)
+3. [node-chat](https://github.com/newgirok/node-chat) (Express)
    - MongoDB 기반 익명 GIF 채팅 서비스
    - Socket.IO 네임스페이스로 방·채팅 분리 · 참여자 0명 시 자동 방 삭제
-4. [node-auction](https://github.com/newgirok/node-auction) (Express · Socket.IO)
+4. [node-auction](https://github.com/newgirok/node-auction) (Express)
    - 실시간 입찰이 가능한 온라인 경매 사이트
    - Socket.IO 룸으로 상품별 실시간 입찰 브로드캐스트 · node-schedule 자동 낙찰 스케줄러
 5. [lion-survival](https://github.com/newgirok/lion-survival) (Phaser3)
