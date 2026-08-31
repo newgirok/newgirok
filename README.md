@@ -30,24 +30,9 @@ GitHub는 이력서보다 솔직한 포트폴리오입니다.<br>
 1. [youtube-shorts-automation](https://github.com/newgirok/youtube-shorts-automation) (NestJS · Next.js)
    - 토픽 한 줄 입력으로 Shorts 영상 제작·업로드 전 과정을 처리하는 자동화 시스템
    - Gemini 2.5 Flash 스크립트 생성 · AWS SQS 5단계 비동기 파이프라인 구성
-2. [node-sns-nest](https://github.com/newgirok/node-sns-nest) (NestJS)
-   - node-sns-express와 같은 기능을 NestJS로 다시 구현한 SNS API
-   - TypeORM 트랜잭션 인터셉터 · 커서 기반 페이지네이션 · 팔로우 요청/수락 구조
-3. [node-sns-express](https://github.com/newgirok/node-sns-express) (Express)
-   - 카카오 로그인, 팔로우, 해시태그를 지원하는 트위터 스타일 SNS
-   - Passport 로컬·카카오 로그인 · S3 이미지 업로드 · helmet·hpp·Redis 세션으로 보안 강화
-4. [node-chat-express](https://github.com/newgirok/node-chat-express) (Express)
-   - MongoDB 기반 익명 GIF 채팅 서비스
-   - Socket.IO 네임스페이스로 방·채팅 분리 · 참여자 0명 시 자동 방 삭제
-5. [node-auction-express](https://github.com/newgirok/node-auction-express) (Express)
-   - 실시간 입찰이 가능한 온라인 경매 사이트
-   - Socket.IO 룸으로 상품별 실시간 입찰 브로드캐스트 · node-schedule 자동 낙찰 스케줄러
-6. [lion-survival](https://github.com/newgirok/lion-survival) (Phaser3)
+2. [lion-survival](https://github.com/newgirok/lion-survival) (Phaser3)
    - 웹 브라우저에서 즐기는 2D 로그라이크 서바이벌 게임
    - Physics Group 충돌 최적화 · Scene FSM 상태 관리 · TileSprite 무한 배경 구현
-7. [opgg](https://github.com/newgirok/opgg) (React · Express)
-   - 소환사 랭크와 최근 전적을 조회하는 전적 검색 서비스
-   - Riot Games API 연동 · OP.GG 다크 테마 UI 직접 구현
 
 ---
 
